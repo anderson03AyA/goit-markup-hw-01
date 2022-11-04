@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "HTMLHint.vscode-htmlhint"
+        "htmlhint.vscode-htmlhint",
+        "salesforce.salesforce-vscode-slds"
     ]
 }
